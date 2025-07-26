@@ -1,0 +1,14 @@
+html{
+    transition: all 0.3 linear;
+    font-family: "Roboto", sans-serif;
+}
+
+.place::placeholder{
+    color: #666666;
+    font-size: 13px;
+}
+
+
+.wrapper-like svg:hover{
+    color: #F17E00;
+}
